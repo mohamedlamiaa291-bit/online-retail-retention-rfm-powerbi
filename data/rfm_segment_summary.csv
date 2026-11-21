@@ -1,0 +1,7 @@
+Segment,Customers,Customer Share,Revenue Share,Avg Recency (days),Avg Orders,Recommended Action
+At Risk,704,11.98%,8.79%,362.5,5.43,Win back: personalized offer and a we-miss-you campaign
+Champions,1407,23.94%,68.70%,20.3,16.25,"Reward: early access, loyalty perks, ask for reviews and referrals"
+Lost,1639,27.88%,4.16%,457.0,1.31,"Low-cost reactivation only, don't over-invest"
+Loyal,1200,20.42%,14.67%,77.9,5.64,"Upsell: bundles, cross-sell, loyalty program"
+Need Attention,424,7.21%,1.28%,109.0,1.42,Nudge: reminder emails and a limited-time offer
+New / Recent,504,8.57%,2.40%,27.9,1.53,Onboard: welcome email and a second-purchase offer within 30 days

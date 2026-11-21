@@ -1,0 +1,51 @@
+{
+  "name": "Navy Coral",
+  "dataColors": [
+    "#1E3A5F",
+    "#F26B5B",
+    "#4F7CAC",
+    "#F8A99F",
+    "#0F2540",
+    "#C94B3C",
+    "#8FB0D0",
+    "#FBD0CA"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1E3A5F",
+  "tableAccent": "#F26B5B",
+  "good": "#4F7CAC",
+  "neutral": "#F8A99F",
+  "bad": "#C94B3C",
+  "minimum": "#EAF2FA",
+  "center": "#8FB0D0",
+  "maximum": "#1E3A5F",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#1E3A5F"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#1E3A5F"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#F26B5B"
+    }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F7F9FC" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
