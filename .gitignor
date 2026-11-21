@@ -1,0 +1,20 @@
+# Raw source data (large; download from UCI instead)
+online_retail_II.csv
+online_retail_II.xlsx
+*.xlsx
+
+# Excel / Office temp files
+~$*
+
+# Power BI temp and local files
+*.pbi*
+.pbi/
+*.pbix.tmp
+*.pbit
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
